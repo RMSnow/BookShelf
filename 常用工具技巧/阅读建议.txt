@@ -1,0 +1,7 @@
+linux程序员，必会GDB、Vim、Makefile
+
+前端程序员，必会Sublime Text
+
+装逼程序员，必会Emacs
+
+所有程序员，必会Git
